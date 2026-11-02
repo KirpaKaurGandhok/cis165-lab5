@@ -17,7 +17,7 @@ I plan to input the loan amount, annual interest rate, & number of payments. Als
 | Program and test | Values used | Expected results | Actual results | Match or correction |
 |---|---|---|---|---|
 | Compound — assigned | $1,000, 4.25%, 12 | Interest: $43.34; Amount: $1,043.34 | Interest: $43.34; Amount: $1,043.34 | Match |
-| Compound — changed | $2,500, 5%, 4 | Interest: $127.36; Amount: $2,627.36 | Interest: $126.26; Amount: $2,627.36 | Match |
+| Compound — changed | $2,500, 5%, 4 | Interest: $127.36; Amount: $2,627.36 | Interest: $127.36; Amount: $2,627.36 | Match |
 | Loan — assigned | $10,000, 12%, 36 | Monthly: $332.14; Total: $11,957.15; Interest: $1,957.15 | Monthly: $332.14; Total: $11,957.15; Interest: $1,957.15 | Match |
 | Loan — changed | $5,000, 6%, 24 | Monthly: $221.60; Total: $5,318.47; Interest: $318.47 | Monthly: $221.60; Total: $5,318.47; Interest: $318.47 | Match |
 
